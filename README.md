@@ -4,8 +4,8 @@ From-scratch implementations of two transformer variants: a full encoder-decoder
 and a decoder-only (GPT-style) transformer. Both are built in PyTorch without high-level
 sequence modelling abstractions.
 
-This project is part of a larger sequential modelling portfolio:
-[sequential-modelling-portfolio](https://github.com/Dorcas-Joy-Kahunguka/sequence-modelling)
+This project is part of a larger sequential modelling project:
+[sequential-modelling](https://github.com/Dorcas-Joy-Kahunguka/sequence-modelling)
 
 ---
 
